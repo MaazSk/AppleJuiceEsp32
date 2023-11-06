@@ -1,6 +1,6 @@
 # Disclaimer
 
-These scripts are an experimental PoC that uses Bluetooth Low Energy (BLE) to send proximity pairing messages to Apple devices.
+These scripts are an experimental PoC that uses Bluetooth Low Energy (BLE) to send proximity pairing messages to Apple and Android devices.
 This project is created for educational purposes and cannot be used for law violation or personal gain. The author of this project is not responsible for any possible harm caused by the materials of this project.
 # INTRO
 This code is based on esp32 and I am using esp-idf  v4.4.6. This code is inspired from Apple Juice and mobilehacker
